@@ -1,7 +1,7 @@
 # NLP-Projects
-# SMS Spam Detection using Naive Bayes
+# Spam Mail Detection using Naive Bayes
 
-This project demonstrates how to build a simple SMS spam detection model using the Naive Bayes algorithm in Python. The model is trained on a dataset containing SMS messages labeled as spam or ham (non-spam).
+This project demonstrates how to build a spam Mail detection model using the Naive Bayes algorithm in Python. The model is trained on a dataset containing Email messages labeled as spam or ham (non-spam).
 
 ## Dataset
 
